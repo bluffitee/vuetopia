@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <h2>Vue Community Coming Soon!</h2>
-    <a href="/api/srvrlss"></a>
+    <a href="/api/srvrlss">Serverless</a>
   </div>
 </template>
 
