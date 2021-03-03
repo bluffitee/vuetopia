@@ -2,12 +2,14 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <h2>Vue Community Coming Soon!</h2>
+    <a href="/api/srvrlss"></a>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  
 }
 </script>
 
